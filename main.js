@@ -54,7 +54,7 @@ function init_menu(){
     markers[open].isOpen=1;
 
     var event_name = markers[open].title;
-    $("title").html("清华2018校庆地图 | " + event_name);
+    $("title").html("清华2018校庆地图 | " + "一图在手，活动全有");
 }
 
 
