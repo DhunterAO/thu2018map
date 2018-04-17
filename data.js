@@ -1,5 +1,192 @@
 var mapdata=[
     {
+        category:"anniversary",
+        data:{
+            markers:[
+                {
+                    title:"1974级毕业40周年纪念大会",
+                    date: "2018-04-29",
+                    time: "09:30",
+                    place: "综合体育馆",
+                    position:{lng:116.338963,lat:40.010072},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1977级入学40周年纪念大会",
+                    date: "2018-04-29",
+                    time: "09:30",
+                    place: "主楼后厅",
+                    position:{lng:116.339006,lat:40.007733},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1978级入学40周年纪念大会",
+                    date: "2018-04-29",
+                    time: "14:00",
+                    place: "主楼后厅",
+                    position:{lng:116.339116,lat:40.007723},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1983级毕业30周年纪念大会",
+                    date: "2018-04-29",
+                    time: "09:00",
+                    place: "新清华学堂",
+                    position:{lng:116.335895,lat:40.007479},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"2018年首届清华房地产金融峰会",
+                    date: "2018-04-29",
+                    time: "10:00",
+                    place: "经管学院报告厅",
+                    position:{lng:116.33862,lat:40.005244},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1983级毕业30周年院士论坛",
+                    date: "2018-04-29",
+                    time: "上午",
+                    place: "大礼堂",
+                    position:{lng:116.330971,lat:40.009453},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1988级入学30周年艺术博物馆基金捐赠仪式",
+                    date: "2018-04-29",
+                    time: "11:30",
+                    place: "艺术博物馆",
+                    position:{lng:116.342213,lat:40.00764},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1998届毕业20周年纪念大会",
+                    date: "2018-04-29",
+                    time: "14:00",
+                    place: "综合体育馆",
+                    position:{lng:116.338863,lat:40.010072},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1998届毕业20周年高峰论坛",
+                    date: "2018-04-28",
+                    time: "19:00",
+                    place: "主楼接待厅",
+                    position:{lng:116.339156,lat:40.007433},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1998届毕业20周年文艺演出",
+                    date: "2018-04-29",
+                    time: "19:00",
+                    place: "综合体育馆",
+                    position:{lng:116.338763,lat:40.010072},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"2004级毕业10周年纪念大会",
+                    date: "2018-04-29",
+                    time: "10:00",
+                    place: "音乐厅",
+                    position:{lng:116.335125,lat:40.0076},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"博士后校友秩年座谈会",
+                    date: "2018-04-28",
+                    time: "13:30",
+                    place: "苏世民书院",
+                    position:{lng:116.336242,lat:40.013334},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"航空系建系80周年暨力学系建系60周年庆祝大会",
+                    date: "2018-04-28",
+                    time: "09:00",
+                    place: "大礼堂",
+                    position:{lng:116.330871,lat:40.009453},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"社科学院科技与社会研究所四十周年纪念",
+                    date: "2018-04-28",
+                    time: "13:00",
+                    place: "旧经管报告厅",
+                    position:{lng:116.333724,lat:40.007782},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"工物系1968届毕业50周年返校活动",
+                    date: "2018-04-28",
+                    time: "09:00",
+                    place: "化工电大楼报告厅",
+                    position:{lng:116.342587,lat:40.008807},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"计算机系1968届毕业50周年纪念活动",
+                    date: "2018-04-28",
+                    time: "09:30",
+                    place: "东阶梯教室",
+                    position:{lng:116.340321,lat:40.007521},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"计算机系1974级毕业40周年纪念活动",
+                    date: "2018-04-29",
+                    time: "13:30",
+                    place: "东阶梯教室",
+                    position:{lng:116.340221,lat:40.007521},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"计算机系1983级毕业30周年纪念活动",
+                    date: "2018-04-29",
+                    time: "15:30",
+                    place: "东主楼10区103室",
+                    position:{lng:116.340249,lat:40.007528},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"计算机系1998届毕业20周年纪念活动",
+                    date: "待定",
+                    time: "待定",
+                    place: "待定",
+                    position:{lng:116.33862,lat:40.005244},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"计算机系2004级毕业10周年纪念活动",
+                    date: "待定",
+                    time: "待定",
+                    place: "待定",
+                    position:{lng:116.33862,lat:40.005244},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"公管学院入校二十周年、十周年院友返校活动",
+                    date: "2018-04-29",
+                    time: "全天",
+                    place: "公管学院322室",
+                    position:{lng:116.337975,lat:40.004456},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"软件学院校友毕业十周年纪念活动",
+                    date: "2018-04-29",
+                    time: "09:30",
+                    place: "信息科学技术大楼多功能厅",
+                    position:{lng:116.338753,lat:40.002437},
+                    imageOffset: {width:-46,height:-21}
+                }
+            ],
+            labels:[],
+            plOpts:[],
+            plPath:[],
+            center:[116.335363,40.012643,16]
+        }
+    },
+    {
         category:"synthesis",
         data:{
             markers:[
@@ -518,193 +705,6 @@ var mapdata=[
             plOpts:[],
             plPath:[],
             center:[116.31936,40.008533,16]
-        }
-    },
-    {   
-        category:"anniversary",
-        data:{
-            markers:[
-                {
-                    title:"1974级毕业40周年纪念大会",
-                    date: "2018-04-29",
-                    time: "09:30",
-                    place: "综合体育馆",
-                    position:{lng:116.338963,lat:40.010072},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"1977级入学40周年纪念大会",
-                    date: "2018-04-29",
-                    time: "09:30",
-                    place: "主楼后厅",
-                    position:{lng:116.339006,lat:40.007733},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"1978级入学40周年纪念大会",
-                    date: "2018-04-29",
-                    time: "14:00",
-                    place: "主楼后厅",
-                    position:{lng:116.339116,lat:40.007723},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"1983级毕业30周年纪念大会",
-                    date: "2018-04-29",
-                    time: "09:00",
-                    place: "新清华学堂",
-                    position:{lng:116.335895,lat:40.007479},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"2018年首届清华房地产金融峰会",
-                    date: "2018-04-29",
-                    time: "10:00",
-                    place: "经管学院报告厅",
-                    position:{lng:116.33862,lat:40.005244},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"1983级毕业30周年院士论坛",
-                    date: "2018-04-29",
-                    time: "上午",
-                    place: "大礼堂",
-                    position:{lng:116.330971,lat:40.009453},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"1988级入学30周年艺术博物馆基金捐赠仪式",
-                    date: "2018-04-29",
-                    time: "11:30",
-                    place: "艺术博物馆",
-                    position:{lng:116.342213,lat:40.00764},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"1998届毕业20周年纪念大会",
-                    date: "2018-04-29",
-                    time: "14:00",
-                    place: "综合体育馆",
-                    position:{lng:116.338863,lat:40.010072},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"1998届毕业20周年高峰论坛",
-                    date: "2018-04-28",
-                    time: "19:00",
-                    place: "主楼接待厅",
-                    position:{lng:116.339156,lat:40.007433},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"1998届毕业20周年文艺演出",
-                    date: "2018-04-29",
-                    time: "19:00",
-                    place: "综合体育馆",
-                    position:{lng:116.338763,lat:40.010072},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"2004级毕业10周年纪念大会",
-                    date: "2018-04-29",
-                    time: "10:00",
-                    place: "音乐厅",
-                    position:{lng:116.335125,lat:40.0076},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"博士后校友秩年座谈会",
-                    date: "2018-04-28",
-                    time: "13:30",
-                    place: "苏世民书院",
-                    position:{lng:116.336242,lat:40.013334},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"航空系建系80周年暨力学系建系60周年庆祝大会",
-                    date: "2018-04-28",
-                    time: "09:00",
-                    place: "大礼堂",
-                    position:{lng:116.330871,lat:40.009453},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"社科学院科技与社会研究所四十周年纪念",
-                    date: "2018-04-28",
-                    time: "13:00",
-                    place: "旧经管报告厅",
-                    position:{lng:116.333724,lat:40.007782},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"工物系1968届毕业50周年返校活动",
-                    date: "2018-04-28",
-                    time: "09:00",
-                    place: "化工电大楼报告厅",
-                    position:{lng:116.342587,lat:40.008807},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"计算机系1968届毕业50周年纪念活动",
-                    date: "2018-04-28",
-                    time: "09:30",
-                    place: "东阶梯教室",
-                    position:{lng:116.340321,lat:40.007521},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"计算机系1974级毕业40周年纪念活动",
-                    date: "2018-04-29",
-                    time: "13:30",
-                    place: "东阶梯教室",
-                    position:{lng:116.340221,lat:40.007521},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"计算机系1983级毕业30周年纪念活动",
-                    date: "2018-04-29",
-                    time: "15:30",
-                    place: "东主楼10区103室",
-                    position:{lng:116.340249,lat:40.007528},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"计算机系1998届毕业20周年纪念活动",
-                    date: "待定",
-                    time: "待定",
-                    place: "待定",
-                    position:{lng:116.33862,lat:40.005244},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"计算机系2004级毕业10周年纪念活动",
-                    date: "待定",
-                    time: "待定",
-                    place: "待定",
-                    position:{lng:116.33862,lat:40.005244},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"公管学院入校二十周年、十周年院友返校活动",
-                    date: "2018-04-29",
-                    time: "全天",
-                    place: "公管学院322室",
-                    position:{lng:116.337975,lat:40.004456},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"软件学院校友毕业十周年纪念活动",
-                    date: "2018-04-29",
-                    time: "09:30",
-                    place: "信息科学技术大楼多功能厅",
-                    position:{lng:116.338753,lat:40.002437},
-                    imageOffset: {width:-46,height:-21}
-                }
-            ],
-            labels:[],
-            plOpts:[],
-            plPath:[],
-            center:[116.335363,40.012643,16]
         }
     },
     {   

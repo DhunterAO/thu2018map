@@ -10,17 +10,19 @@ var n;
 function getQueryString(name) {
     var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
     var r = window.location.search.substr(1).match(reg);
-    if (r != null) return unescape(r[2]); return null;
+    if (r != null) return r[2];
+    return null;
 }
 
 
 function init_menu(){
     for(var j=0;j<mapdata.length;j+=1){
         var cat = mapdata[j].category;
+        console.log(j, cat);
         var arr = mapdata[j].data.markers;
         var menu = $('#'+cat+'_menu');
         for(var i=0;i<arr.length;i+=1){
-                var node = "<li><a href='?c="+j+"&o="+i+"'>"+ arr[i].title +"</a></li>";
+                var node = "<li><a style=\"word-break:break-all;white-space:normal; border-bottom: 1px solid;\" href='?c="+j+"&o="+i+"'>"+ arr[i].title +"</a></li>";
                 menu.append(node);
         }
     }
@@ -29,13 +31,11 @@ function init_menu(){
     open = parseInt(getQueryString('o'));
 
     if(!category){
-        category = 4;
-    }
-    if(!open){
-        open = 0;
+        category = 0;
     }
 
-    var cat = mapdata[category].category;
+    cat = mapdata[category].category;
+    console.log(cat);
     $("#"+cat).addClass("btn-info"); // 追加样式 
 
     markers = mapdata[category].data.markers;
@@ -47,14 +47,22 @@ function init_menu(){
     //y = mapdata[category].data.center[1];
     //z = mapdata[category].data.center[2];
     //z = parseInt(z);
-    x = markers[open].position.lng;
-    y = markers[open].position.lat;
-    z = 16;
 
-    markers[open].isOpen=1;
-
-    var event_name = markers[open].title;
-    $("title").html("清华2018校庆地图 | " + "一图在手，活动全有");
+    if (open)
+    {
+        x = markers[open].position.lng;
+        y = markers[open].position.lat;
+        z = 16;
+        markers[open].isOpen=1;
+        var event_name = markers[open].title;
+        $("title").html("清华2018校庆地图 | " + event_name);
+    }else
+    {
+        x = mapdata[category].data.center[0];
+        y = mapdata[category].data.center[1];
+        z = 16;
+        $("title").html("清华2018校庆地图 | " + "一图在手，活动全有");
+    }
 }
 
 
