@@ -29,7 +29,7 @@ function init_menu(){
     open = parseInt(getQueryString('o'));
 
     if(!category){
-        category = 0;
+        category = 4;
     }
     if(!open){
         open = 0;
