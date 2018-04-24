@@ -1408,7 +1408,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "09:00",
                     place: "北院草坪",
-                    position:{lng:116.332395,lat:40.012238},
+                    position:{lng:116.332342,lat:40.011162},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
