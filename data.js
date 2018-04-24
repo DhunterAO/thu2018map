@@ -1359,7 +1359,7 @@ var mapdata=[
                     date: "2018-04-28",
                     time: "09:30",
                     place: "学生文化活动中心多功能厅",
-                    position:{lng:116.321640,lat:40.004270},
+                    position:{lng:116.328221,lat:40.010078},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
