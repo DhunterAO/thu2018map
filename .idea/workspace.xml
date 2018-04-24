@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="792077a4-4e2a-493e-8580-34b082b7942e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/data.js" afterPath="$PROJECT_DIR$/data.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,28 +19,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="714" column="17" lean-forward="false" selection-start-line="714" selection-start-column="17" selection-end-line="714" selection-end-column="17" />
+            <state relative-caret-position="261">
+              <caret line="1332" column="31" lean-forward="true" selection-start-line="1332" selection-start-column="31" selection-end-line="1332" selection-end-column="31" />
               <folding>
-                <element signature="e#65#16669#0" expanded="false" />
-                <element signature="e#30031#35161#0" expanded="false" />
-                <element signature="e#35217#42021#0" expanded="false" />
-                <element signature="e#42082#47176#0" expanded="false" />
-                <element signature="e#47231#50779#0" expanded="false" />
+                <element signature="e#65#16667#0" expanded="false" />
+                <element signature="e#24105#29972#0" expanded="false" />
+                <element signature="e#30029#35159#0" expanded="false" />
+                <element signature="e#35215#42019#0" expanded="false" />
+                <element signature="e#42080#47172#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="108" column="20" lean-forward="false" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -50,8 +39,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>工物馆</find>
-      <find>土木馆</find>
       <find>李兆基</find>
       <find>信息科学技术大楼</find>
       <find>经管学院西楼</find>
@@ -62,7 +49,6 @@
       <find>紫光国际交流中心</find>
       <find>音乐厅</find>
       <find>教职工校庆摄影展</find>
-      <find>美术学院</find>
       <find>主楼前厅</find>
       <find>主楼</find>
       <find>学生文化活动中心</find>
@@ -80,6 +66,9 @@
       <find>东主楼</find>
       <find>电子工程系</find>
       <find>校友总会公共</find>
+      <find>理科楼</find>
+      <find>美术学院</find>
+      <find>各学生公寓</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,18 +158,18 @@
       <workItem from="1524557872120" duration="6678000" />
       <workItem from="1524578050099" duration="23000" />
       <workItem from="1524578092157" duration="1174000" />
-      <workItem from="1524580290024" duration="1218000" />
+      <workItem from="1524580290024" duration="1498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9093000" />
+    <option name="totallyTimeSpent" value="9373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="729" y="22" width="711" height="791" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51476794" sideWeight="0.49529412" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51476794" sideWeight="0.49529412" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -230,25 +219,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="714" column="17" lean-forward="false" selection-start-line="714" selection-start-column="17" selection-end-line="714" selection-end-column="17" />
-          <folding>
-            <element signature="e#65#16669#0" expanded="false" />
-            <element signature="e#30031#35161#0" expanded="false" />
-            <element signature="e#35217#42021#0" expanded="false" />
-            <element signature="e#42082#47176#0" expanded="false" />
-            <element signature="e#47231#50779#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="108" column="20" lean-forward="false" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="261">
+          <caret line="1332" column="31" lean-forward="true" selection-start-line="1332" selection-start-column="31" selection-end-line="1332" selection-end-column="31" />
+          <folding>
+            <element signature="e#65#16667#0" expanded="false" />
+            <element signature="e#24105#29972#0" expanded="false" />
+            <element signature="e#30029#35159#0" expanded="false" />
+            <element signature="e#35215#42019#0" expanded="false" />
+            <element signature="e#42080#47172#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

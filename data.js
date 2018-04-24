@@ -393,7 +393,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "下午",
                     place: "理科楼C302室",
-                    position:{lng:116.333467,lat:40.001914},
+                    position:{lng:116.326673,lat:40.01104},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -409,7 +409,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "10:00",
                     place: "理科楼C302室",
-                    position:{lng:116.333467,lat:40.001914},
+                    position:{lng:116.326673,lat:40.01104},
                     imageOffset: {width:-46,height:-21}
                 },
 
@@ -703,7 +703,7 @@ var mapdata=[
                     date: "2018-04-28",
                     time: "全天",
                     place: "理科楼C302室",
-                    position:{lng:116.326469,lat:40.01098},
+                    position:{lng:116.326673,lat:40.01104},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -1199,7 +1199,7 @@ var mapdata=[
                     date: "2018-04-28、29",
                     time: "全天",
                     place: "美术学院A区大厅",
-                    position:{lng:116.334810,lat:39.999730},
+                    position:{lng:116.3424,lat:40.005348},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -1324,7 +1324,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "全天",
                     place: "各学生公寓",
-                    position:{lng:116.332912,lat:40.013829},
+                    position:{lng:116.335718,lat:40.017044},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
