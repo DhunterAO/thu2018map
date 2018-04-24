@@ -18,7 +18,6 @@ function getQueryString(name) {
 function init_menu(){
     for(var j=0;j<mapdata.length;j+=1){
         var cat = mapdata[j].category;
-        console.log(j, cat);
         var arr = mapdata[j].data.markers;
         var menu = $('#'+cat+'_menu');
         for(var i=0;i<arr.length;i+=1){
@@ -35,7 +34,8 @@ function init_menu(){
     }
 
     cat = mapdata[category].category;
-    console.log(cat);
+    console.log(category);
+
     $("#"+cat).addClass("btn-info"); // 追加样式 
 
     markers = mapdata[category].data.markers;
@@ -48,8 +48,9 @@ function init_menu(){
     //z = mapdata[category].data.center[2];
     //z = parseInt(z);
 
-    if (open)
+    if (open >= 0)
     {
+        console.log(open);
         x = markers[open].position.lng;
         y = markers[open].position.lat;
         z = 16;
@@ -152,10 +153,6 @@ function initMap(){
 
 var all;
 
-function show(){
-
-}
-
 function chooseAll() {
     all = document.getElementsByName("click");
     if (all[0].checked){
@@ -178,7 +175,6 @@ function chooseAll() {
             marker[i].hide();
         }
     }
-    show();
 }
 
 function choose27() {
@@ -199,7 +195,6 @@ function choose27() {
                 marker[i].hide();
         }
     }
-    show();
 }
 
 function choose28() {
@@ -219,7 +214,6 @@ function choose28() {
                 marker[i].hide();
         }
     }
-    show();
 }
 
 function choose29() {
@@ -239,10 +233,9 @@ function choose29() {
                 marker[i].hide();
         }
     }
-    show();
 }
 
 init_menu();
-    
+
 var map;
 initMap();
