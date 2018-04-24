@@ -427,7 +427,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "14:00",
                     place: "公管学院322室",
-                    position:{lng:116.337975,lat:39.004456},
+                    position:{lng:116.337975,lat:40.004456},
                     imageOffset: {width:-46,height:-21}
                 }
             ],
@@ -462,7 +462,7 @@ var mapdata=[
                     date: "2018-04-26",
                     time: "14:00",
                     place: "公管学院302室",
-                    position:{lng:116.337975,lat:39.004456},
+                    position:{lng:116.337975,lat:40.004456},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
