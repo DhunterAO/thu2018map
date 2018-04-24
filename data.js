@@ -442,10 +442,34 @@ var mapdata=[
         data:{
             markers:[
                 {
-                    title:"清华校友三创大赛颁奖典礼",
+                    title:"诚志股份有限公司捐赠仪式",
+                    date: "2018-04-25",
+                    time: "14:00",
+                    place: "丙所会议室",
+                    position:{lng:116.329824,lat:40.00687},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"清华大学长聘教授聘任仪式暨长聘教授座谈会",
+                    date: "2018-04-25",
+                    time: "17:00",
+                    place: "艺术博物馆",
+                    position:{lng:116.342213,lat:40.00764},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"清华大学公共管理学院发展委员会第二次全体会议",
+                    date: "2018-04-26",
+                    time: "14:00",
+                    place: "公管学院302室",
+                    position:{lng:116.331300,lat:39.998540},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"校友励学金大会",
                     date: "2018-04-27",
                     time: "08:30",
-                    place: "同方科技广场",
+                    place: "主楼后厅",
                     position:{lng:116.345935,lat:40.005131},
                     imageOffset: {width:-46,height:-21}
                 },
@@ -899,6 +923,22 @@ var mapdata=[
         category:"academic",
         data:{
             markers:[
+                {
+                    title:"吴泽霖民族文华讲座（8）:重新认识中国农业文化遗产的必要性和紧迫性",
+                    date: "2018-04-24",
+                    time: "14:00",
+                    place: "老年活动中心109室",
+                    position:{lng:116.334538,lat:40.002062},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"吴泽霖民族文华讲座（9）：民族传统手工艺遗产的活态传承与现代发展",
+                    date: "2018-04-24",
+                    time: "14:00",
+                    place: "老年活动中心110室",
+                    position:{lng:116.334538,lat:40.002062},
+                    imageOffset: {width:-46,height:-21}
+                },
                 {
                     title:"医养行业中PPP模式应用研讨会",
                     date: "2018-04-26",
@@ -1367,7 +1407,7 @@ var mapdata=[
                     title:"草坪音乐会",
                     date: "2018-04-29",
                     time: "09:00",
-                    place: "听涛园西侧凤舞青桐",
+                    place: "北院草坪",
                     position:{lng:116.332395,lat:40.012238},
                     imageOffset: {width:-46,height:-21}
                 },
