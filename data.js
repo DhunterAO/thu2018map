@@ -534,7 +534,7 @@ var mapdata=[
                     date: "2018-04-28",
                     time: "14:00",
                     place: "华业大厦1103会议室",
-                    position:{lng:116.34009,lat:39.002808},
+                    position:{lng:116.34009,lat:40.002808},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
