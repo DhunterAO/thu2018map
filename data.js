@@ -1408,7 +1408,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "09:00",
                     place: "工字厅前",
-                    position:{lng:116.329601,lat:40.008523},
+                    position:{lng:116.3297,lat:40.008034},
                     imageOffset: {width:-46,height:-21}
                 },
                 {

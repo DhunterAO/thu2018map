@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="1251" column="9" lean-forward="true" selection-start-line="1251" selection-start-column="9" selection-end-line="1251" selection-end-column="9" />
+            <state relative-caret-position="290">
+              <caret line="1414" column="34" lean-forward="true" selection-start-line="1414" selection-start-column="34" selection-end-line="1414" selection-end-column="34" />
               <folding>
                 <element signature="e#65#16667#0" expanded="false" />
                 <element signature="e#24105#29972#0" expanded="false" />
@@ -31,17 +31,16 @@
                 <element signature="e#35215#42019#0" expanded="false" />
                 <element signature="e#42080#47172#0" expanded="false" />
                 <element signature="e#47227#50775#0" expanded="false" />
-                <element signature="e#50826#57050#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="98" column="22" lean-forward="false" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+            <state relative-caret-position="235">
+              <caret line="106" column="14" lean-forward="true" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -170,18 +169,18 @@
       <workItem from="1524557872120" duration="6678000" />
       <workItem from="1524578050099" duration="23000" />
       <workItem from="1524578092157" duration="1174000" />
-      <workItem from="1524580290024" duration="1605000" />
+      <workItem from="1524580290024" duration="1720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9480000" />
+    <option name="totallyTimeSpent" value="9595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="729" y="22" width="711" height="791" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51476794" sideWeight="0.49529412" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51476794" sideWeight="0.49529412" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -231,10 +230,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="106" column="14" lean-forward="true" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="1251" column="9" lean-forward="true" selection-start-line="1251" selection-start-column="9" selection-end-line="1251" selection-end-column="9" />
+        <state relative-caret-position="290">
+          <caret line="1414" column="34" lean-forward="true" selection-start-line="1414" selection-start-column="34" selection-end-line="1414" selection-end-column="34" />
           <folding>
             <element signature="e#65#16667#0" expanded="false" />
             <element signature="e#24105#29972#0" expanded="false" />
@@ -242,16 +249,7 @@
             <element signature="e#35215#42019#0" expanded="false" />
             <element signature="e#42080#47172#0" expanded="false" />
             <element signature="e#47227#50775#0" expanded="false" />
-            <element signature="e#50826#57050#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="98" column="22" lean-forward="false" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
