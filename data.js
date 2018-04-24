@@ -427,7 +427,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "14:00",
                     place: "公管学院322室",
-                    position:{lng:116.331300,lat:39.998540},
+                    position:{lng:116.337975,lat:39.004456},
                     imageOffset: {width:-46,height:-21}
                 }
             ],
@@ -462,15 +462,23 @@ var mapdata=[
                     date: "2018-04-26",
                     time: "14:00",
                     place: "公管学院302室",
-                    position:{lng:116.331300,lat:39.998540},
+                    position:{lng:116.337975,lat:39.004456},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
                     title:"校友励学金大会",
+                    date: "2018-04-26",
+                    time: "15:30",
+                    place: "主楼后厅",
+                    position:{lng:116.339126,lat:40.007733},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"清华校友三创大赛颁奖典礼",
                     date: "2018-04-27",
                     time: "08:30",
-                    place: "主楼后厅",
-                    position:{lng:116.345935,lat:40.005131},
+                    place: "同方科技广场",
+                    position:{lng:116.345572,lat:40.004813},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -502,7 +510,7 @@ var mapdata=[
                     date: "2018-04-28",
                     time: "09:00",
                     place: "动振小楼202室",
-                    position:{lng:116.325710,lat:40.002698},
+                    position:{lng:116.332302,lat:40.00848},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -526,7 +534,7 @@ var mapdata=[
                     date: "2018-04-28",
                     time: "14:00",
                     place: "华业大厦1103会议室",
-                    position:{lng:116.333450,lat:39.996720},
+                    position:{lng:116.34009,lat:39.002808},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
