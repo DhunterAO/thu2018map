@@ -318,7 +318,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "09:00",
                     place: "建筑馆二楼多功能厅",
-                    position:{lng:116.333010,lat:39.999540},
+                    position:{lng:116.339645,lat:40.005251},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -326,7 +326,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "13:00",
                     place: "建筑馆二楼210（南）会议室",
-                    position:{lng:116.333010,lat:39.999540},
+                    position:{lng:116.339645,lat:40.005251},
                     imageOffset: {width:-46,height:-21}
                 },
 
@@ -337,7 +337,7 @@ var mapdata=[
                     date: "2018-04-27",
                     time: "14:30",
                     place: "电子工程系馆11层多功能厅",
-                    position:{lng:116.336380,lat:40.005460},
+                    position:{lng:116.342871,lat:40.011188},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -345,7 +345,7 @@ var mapdata=[
                     date: "2018-04-28",
                     time: "10:00",
                     place: "电子工程系馆3层会议厅",
-                    position:{lng:116.336380,lat:40.005460},
+                    position:{lng:116.342871,lat:40.011188},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -377,7 +377,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "15:10",
                     place: "东主楼10区109室",
-                    position:{lng:116.333467,lat:40.001914},
+                    position:{lng:116.340249,lat:40.007528},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -385,7 +385,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "15:00",
                     place: "东主楼10区103室",
-                    position:{lng:116.333467,lat:40.001914},
+                    position:{lng:116.340249,lat:40.007528},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -401,7 +401,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "10:00",
                     place: "东主楼10区103室",
-                    position:{lng:116.333467,lat:40.001914},
+                    position:{lng:116.340249,lat:40.007528},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -679,7 +679,7 @@ var mapdata=[
                     date: "2018-04-28",
                     time: "",
                     place: "电子工程系馆11层多功能厅",
-                    position:{lng:116.336380,lat:40.005460},
+                    position:{lng:116.342871,lat:40.011188},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -722,7 +722,7 @@ var mapdata=[
                     date: "2018-04-29",
                     time: "09:00",
                     place: "公管学院620室",
-                    position:{lng:116.339146,lat:40.007423},
+                    position:{lng:116.337975,lat:40.004456},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
