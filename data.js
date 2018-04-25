@@ -630,7 +630,7 @@ var mapdata=[
             center:[116.33339,40.007545,16]
         }
     },
-    {   
+    {
         category:"schoolfellow",
         data:{
             markers:[
@@ -788,7 +788,7 @@ var mapdata=[
             center:[116.335363,40.012643,16]
         }
     },
-    {   
+    {
         category:"sports",
         data:{
             markers:[
@@ -1110,7 +1110,7 @@ var mapdata=[
             center:[116.31936,40.008533,16]
         }
     },
-    {   
+    {
         category:"exhibition",
         data:{
             markers:[
@@ -1251,7 +1251,7 @@ var mapdata=[
             center:[116.335363,40.012643,16]
         }
     },
-    {   
+    {
         category:"open",
         data:{
             markers:[
@@ -1461,8 +1461,8 @@ var mapdata=[
                 },
                 {
                     title:"爱上舞蹈奇艺人生——校友舞蹈队专场演出《向美而行》",
-                    date: "2018-04-28",
-                    time: "14:00",
+                    date: "2018-04-29",
+                    time: "19:30",
                     place: "新清华学堂",
                     position:{lng:116.335495,lat:40.007479},
                     imageOffset: {width:-46,height:-21}
@@ -1512,5 +1512,3 @@ var mapdata=[
         }
     }
 ];
-
-
