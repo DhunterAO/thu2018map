@@ -482,7 +482,7 @@ var mapdata=[
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"冯文慈余玉姿夫妇音乐文献捐赠仪式",
+                    title:"冯文慈俞玉姿夫妇音乐文献捐赠仪式",
                     date: "2018-04-27",
                     time: "14:30",
                     place: "人文社科图书馆大同厅",
