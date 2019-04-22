@@ -177,10 +177,50 @@ function chooseAll() {
     }
 }
 
-function choose27() {
+function choose25() {
     all = document.getElementsByName("click");
     if (all[1].checked){
-        all[0].checked = all[2].checked && all[3].checked;
+        all[0].checked = all[2].checked && all[3].checked && all[4].checked;
+        for (var i=0;i<n;i++)
+        {
+            console.log(time[i] & 1);
+            if ((time[i] & 1) === 1)
+                marker[i].show();
+        }
+    }else {
+        all[0].checked = false;
+        for (var i=0;i<n;i++)
+        {
+            if ((time[i] | 1) === 1)
+                marker[i].hide();
+        }
+    }
+}
+
+function choose26() {
+    all = document.getElementsByName("click");
+    if (all[2].checked){
+        all[0].checked = all[1].checked && all[3].checked && all[4].checked;
+        for (var i=0;i<n;i++)
+        {
+            console.log(time[i] & 1);
+            if ((time[i] & 1) === 1)
+                marker[i].show();
+        }
+    }else {
+        all[0].checked = false;
+        for (var i=0;i<n;i++)
+        {
+            if ((time[i] | 1) === 1)
+                marker[i].hide();
+        }
+    }
+}
+
+function choose27() {
+    all = document.getElementsByName("click");
+    if (all[3].checked){
+        all[0].checked = all[1].checked && all[2].checked && all[4].checked;
         for (var i=0;i<n;i++)
         {
             console.log(time[i] & 1);
@@ -199,8 +239,8 @@ function choose27() {
 
 function choose28() {
     all = document.getElementsByName("click");
-    if (all[2].checked){
-        all[0].checked = all[1].checked && all[3].checked;
+    if (all[4].checked){
+        all[0].checked = all[1].checked && all[2].checked && all[3].checked;
         for (var i=0;i<n;i++)
         {
             if ((time[i] & 2) === 2)
@@ -211,25 +251,6 @@ function choose28() {
         for (var i=0;i<n;i++)
         {
             if ((time[i] | 2) === 2)
-                marker[i].hide();
-        }
-    }
-}
-
-function choose29() {
-    all = document.getElementsByName("click");
-    if (all[3].checked){
-        all[0].checked = all[2].checked && all[1].checked;
-        for (var i=0;i<n;i++)
-        {
-            if ((time[i] & 4) === 4)
-                marker[i].show();
-        }
-    }else {
-        all[0].checked = false;
-        for (var i=0;i<n;i++)
-        {
-            if ((time[i] | 4) === 4)
                 marker[i].hide();
         }
     }
