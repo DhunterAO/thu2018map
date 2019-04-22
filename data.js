@@ -437,175 +437,143 @@ var mapdata=[
         data:{
             markers:[
                 {
-                    title:"吴泽霖民族文华讲座（8）:重新认识中国农业文化遗产的必要性和紧迫性",
-                    date: "2019-04-24",
-                    time: "14:00",
-                    place: "老年活动中心109室",
-                    position:{lng:116.334538,lat:40.002062},
+                    title:"“人文清华，源远流长”——朗读专场",
+                    date: "2019-04-23晚",
+                    time: "",
+                    place: "文科图书馆未央厅",
+                    position:{lng:116.336116,lat:40.009789},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"吴泽霖民族文华讲座（9）：民族传统手工艺遗产的活态传承与现代发展",
-                    date: "2019-04-24",
-                    time: "14:00",
-                    place: "老年活动中心110室",
-                    position:{lng:116.334538,lat:40.002062},
+                    title:"108周年校庆校友招待演出",
+                    date: "2019-04-27",
+                    time: "15:00",
+                    place: "新清华学堂",
+                    position:{lng:116.335895,lat:40.007479},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"医养行业中PPP模式应用研讨会",
-                    date: "2019-04-26",
-                    time: "08:30",
+                    title:"国乐剧武侠专场《射雕英雄》",
+                    date: "2019-04-27",
+                    time: "19:00",
                     place: "学生文化活动中心多功能厅",
-                    position:{lng:116.321640,lat:40.004270},
+                    position:{lng:116.328221,lat:40.010078},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"2019清华大学退役军人事务暨军民融合论坛",
-                    date: "2019-04-26",
-                    time: "08:30",
-                    place: "音乐厅",
-                    position:{lng:116.335125,lat:40.0076},
+                    title:"校庆合唱音乐会（名称待定）",
+                    date: "2019-04-27",
+                    time: "19:30",
+                    place: "大礼堂",
+                    position:{lng:116.330971,lat:40.009453},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"中华传统礼仪与国家形象论坛",
-                    date: "2019-04-26",
-                    time: "09:00",
-                    place: "主楼接待厅",
-                    position:{lng:116.339146,lat:40.007423},
+                    title:"清华专题纪录片展映",
+                    date: "2019-04-27/28",
+                    time: "",
+                    place: "文科图书馆G层和F1层",
+                    position:{lng:116.336116,lat:40.009789},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"第四届大数据活动日",
-                    date: "2019-04-26",
-                    time: "10:00",
-                    place: "紫荆宿舍区户外场地",
-                    position:{lng:116.329830,lat:40.011625},
+                    title:"机器人乐队演出",
+                    date: "2019-04-27/28",
+                    time: "",
+                    place: "美术学院",
+                    position:{lng:116.3424,lat:40.005348},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"“发明的精神—美国哈格利博物馆与图书馆藏19世纪美国专利模型展”巡展启动仪式暨中美创新专利展",
-                    date: "2019-04-26",
-                    time: "14:00",
-                    place: "艺术博物馆",
-                    position:{lng:116.342213,lat:40.00764},
-                    imageOffset: {width:-46,height:-21}
-                },
-
-
-
-
-                {
-                    title:"互联网产业研究院移动经济论坛",
+                    title:"民乐队校庆草坪音乐会",
                     date: "2019-04-27",
                     time: "09:00",
-                    place: "经管学院东楼508室",
-                    position:{lng:116.337121,lat:40.005213},
+                    place: "工字厅前",
+                    position:{lng:116.329601,lat:40.008523},
                     imageOffset: {width:-46,height:-21}
                 },
+
+
+
+
                 {
-                    title:"“大数据在清华”高峰论坛",
+                    title:"军乐队校庆草坪音乐会",
                     date: "2019-04-27",
-                    time: "09:00",
-                    place: "主楼接待厅",
-                    position:{lng:116.339146,lat:40.007423},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"第九届清华大学博士后创新讲坛",
-                    date: "2019-04-28",
-                    time: "09:00",
-                    place: "苏世民书院",
-                    position:{lng:116.336242,lat:40.013334},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"中学基础教育高峰论坛",
-                    date: "2019-04-28",
-                    time: "08:30",
-                    place: "主楼后厅",
-                    position:{lng:116.339126,lat:40.007733},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"中国与世界思想对话会",
-                    date: "2019-04-28",
-                    time: "09:00",
-                    place: "主楼接待厅",
-                    position:{lng:116.339146,lat:40.007423},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"“智能传感器创新联盟”成立大会",
-                    date: "2019-04-28",
-                    time: "09:00",
-                    place: "紫光国际交流中心",
-                    position:{lng:116.338398,lat:40.001009},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"2019中国产业高质量发展论坛",
-                    date: "2019-04-28",
-                    time: "14:00",
-                    place: "经管学院西楼409",
-                    position:{lng:116.337147,lat:40.005423},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"中国心理学会积极心理学专业委员会论坛",
-                    date: "2019-04-28",
-                    time: "14:00",
-                    place: "化工电大楼507室",
-                    position:{lng:116.342587,lat:40.008807},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"基金实务与实践——经管学院中国金融中心校友论坛",
-                    date: "2019-04-28",
-                    time: "全天",
-                    place: "经管学院报告厅",
-                    position:{lng:116.337825,lat:40.00508},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"第36届“挑战杯”学生课外学术科技作品展览暨学生创意创新创业博览会开幕式",
-                    date: "2019-04-29",
-                    time: "09:00",
-                    place: "游泳馆南侧",
-                    position:{lng:116.337689,lat:40.013037},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"清华大学车辆工程人才培养86周年高峰论坛",
-                    date: "2019-04-29",
                     time: "10:00",
-                    place: "主楼接待厅",
-                    position:{lng:116.339156,lat:40.007433},
+                    place: "大礼堂前广场",
+                    position:{lng:116.330971,lat:40.009453},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"2019年首届清华房地产金融峰会",
-                    date: "2019-04-29",
+                    title:"校庆大游园",
+                    date: "2019-04-28",
                     time: "10:00",
-                    place: "经管学院报告厅",
-                    position:{lng:116.33862,lat:40.005244},
+                    place: "清华主干道、新清华学堂广场前路口",
+                    position:{lng:116.335895,lat:40.007479},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"改革开放与国家治理现代化——公管学院校庆校友返校讲堂",
-                    date: "2019-04-29",
-                    time: "11:30",
-                    place: "公管学院一层大厅",
-                    position:{lng:116.337975,lat:40.004456},
+                    title:"校庆歌曲快闪",
+                    date: "2019-04-28",
+                    time: "10:00",
+                    place: "新清华学堂广场",
+                    position:{lng:116.335895,lat:40.007479},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"“新材料创新与创业”专题校友论坛",
-                    date: "2019-04-29",
-                    time: "14:00",
-                    place: "技术科学楼",
-                    position:{lng:116.3398,lat:40.003893},
+                    title:"校庆集体舞联欢",
+                    date: "2019-04-28",
+                    time: "10:00",
+                    place: "大礼堂前广场",
+                    position:{lng:116.330971,lat:40.009453},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"曲艺队校庆露天演出",
+                    date: "2019-04-28",
+                    time: "",
+                    place: "学生服务中心前广场",
+                    position:{lng:116.334798,lat:40.015643},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"美术社校庆活动",
+                    date: "2019-04-28",
+                    time: "11:00",
+                    place: "学生服务中心前广场",
+                    position:{lng:116.334798,lat:40.015643},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"《九月七月》合唱快闪",
+                    date: "2019-04-28",
+                    time: "上午",
+                    place: "新清华学堂前厅或广场",
+                    position:{lng:116.335895,lat:40.007479},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"“人文清华，源远流长”诗文朗诵话剧专场（《雷雨》、《北京人》、《冬之旅》）",
+                    date: "2019-04-28",
+                    time: "14:30",
+                    place: "学生文化活动中心多功能厅",
+                    position:{lng:116.328221,lat:40.010078},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"大型交响组歌《水木情缘》",
+                    date: "2019-04-28",
+                    time: "15:00",
+                    place: "新清华学堂",
+                    position:{lng:116.335895,lat:40.007479},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1984级毕业30周年食堂舞会",
+                    date: "2019-04-28",
+                    time: "19:00",
+                    place: "工会俱乐部",
+                    position:{lng:116.327668,lat:40.008601},
                     imageOffset: {width:-46,height:-21}
                 }
             ],
@@ -620,133 +588,99 @@ var mapdata=[
         data:{
             markers:[
                 {
-                    title:"联合国专题文献展",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "图书馆老馆214室",
-                    position:{lng:116.331899,lat:40.010412},
+                    title:"校庆校友网球比赛",
+                    date: "2019-04-27全天",
+                    time: "28日8:00-17:00",
+                    place: "紫荆网球场",
+                    position:{lng:116.337227,lat:40.016175},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"材料学院（材料系）发展历程摄影作品展览",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "技术科学楼",
-                    position:{lng:116.3398,lat:40.003893},
+                    title:"校庆校友乒乓球比赛",
+                    date: "2019-04-27",
+                    time: "08:00-18:00",
+                    place: "气膜馆",
+                    position:{lng:116.337926,lat:40.018185},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"教室改建展板宣传",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "三教平台",
-                    position:{lng:116.335296,lat:40.008809},
+                    title:"1989级入学30周年趣味运动会及足球赛",
+                    date: "2019-04-27",
+                    time: "13:00-15:00",
+                    place: "西大操场及西体篮球馆",
+                    position:{lng:116.328577,lat:40.010896},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"校友摄影展",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "图书馆北馆一层",
-                    position:{lng:116.329013,lat:40.012959},
+                    title:"1977-1987级体育代表队校友联欢活动",
+                    date: "2019-04-27",
+                    time: "15:00-18:00",
+                    place: "西体育馆前馆",
+                    position:{lng:116.327819,lat:40.010839},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"“精仪之星”风采展示",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "9003大楼",
-                    position:{lng:116.33741,lat:40.003441},
+                    title:"1979级入学40年足球联谊赛",
+                    date: "2019-04-27",
+                    time: "15:00-17:00",
+                    place: "西大操场",
+                    position:{lng:116.328577,lat:40.010896},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"“精仪系研究生优秀论文”风采展示",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "9003大楼",
-                    position:{lng:116.33771,lat:40.003441},
+                    title:"校庆校友羽毛球比赛",
+                    date: "2019-04-27全天",
+                    time: "28日8:00-14:00",
+                    place: "综合体育馆",
+                    position:{lng:116.338963,lat:40.010072},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"“精仪系学人堂”展示",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "9003大楼",
-                    position:{lng:116.33711,lat:40.003441},
+                    title:"“寻迹百年”定向越野活动",
+                    date: "2019-04-27",
+                    time: "下午",
+                    place: "紫荆操场及雕塑园",
+                    position:{lng:116.335681,lat:40.015896},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"特藏历史文书展",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "图书馆北馆一层",
+                    title:"相聚清华园·再续围棋缘",
+                    date: "2019-04-27、28",
+                    time: "",
+                    place: "待定",
                     position:{lng:116.329113,lat:40.012959},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"朱自清诞辰120周年纪念展览",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "图书馆老馆二层",
+                    title:"1988级与1991级足球联谊赛",
+                    date: "2019-04-28",
+                    time: "09:00-11:00",
+                    place: "西大操场",
                     position:{lng:116.331999,lat:40.010412},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"学生艺术团摄影展《定格艺术团》",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "音乐厅二层",
-                    position:{lng:116.335125,lat:40.0076},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"教职工校庆摄影展",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "美术学院A区大厅",
-                    position:{lng:116.3424,lat:40.005348},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"师生校庆书法展",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "主楼前厅",
-                    position:{lng:116.339156,lat:40.007433},
-                    imageOffset: {width:-46,height:-21}
-                },
-
-
-                {
-                    title:"文图放映——清华专题",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "人文社科图书馆未央厅",
-                    position:{lng:116.334983,lat:40.009951},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"清华史料和名人档案捐赠展",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "校史馆专题展厅",
-                    position:{lng:116.33557,lat:40.007712},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"iCenter双创教育成果展",
+                    title:"1984级毕业30周年拔河比赛",
                     date: "2019-04-28",
-                    time: "全天",
-                    place: "科技大楼",
-                    position:{lng:116.335995,lat:40.002584},
+                    time: "16:00-18:00",
+                    place: "西大操场",
+                    position:{lng:116.331999,lat:40.010412},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"清华大学百年校史展",
-                    date: "2019-04-27、28、29",
-                    time: "全天",
-                    place: "校史馆",
-                    position:{lng:116.33597,lat:40.007712},
+                    title:"1984级毕业30周年足球赛",
+                    date: "2019-04-28",
+                    time: "16:00-18:00",
+                    place: "西大操场",
+                    position:{lng:116.331999,lat:40.010412},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"“马约翰杯”学生田径运动会",
+                    date: "2019-04-28",
+                    time: "08:16:00",
+                    place: "东大操场",
+                    position:{lng:116.339491,lat:40.010624},
                     imageOffset: {width:-46,height:-21}
                 }
             ],
