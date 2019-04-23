@@ -97,21 +97,21 @@ function initMap(){
     }
 
     function addMapOverlay(){
-      n = markers.length;
-      for(var index = 0; index < markers.length; index++)
-      {
-        var point = new BMap.Point(markers[index].position.lng, markers[index].position.lat);
-        marker[index] = new BMap.Marker(
-                        point,
-                        {
-                            icon: new BMap.Icon("http://api.map.baidu.com/lbsapi/createmap/images/icon.png",
-                            new BMap.Size(20,25),
-                            {
-                                imageOffset: new BMap.Size(markers[index].imageOffset.width, markers[index].imageOffset.height)
-                            }
-                            )
-                        }
-                    );
+        n = markers.length;
+        for(var index = 0; index < markers.length; index++)
+        {
+            var point = new BMap.Point(markers[index].position.lng, markers[index].position.lat);
+            marker[index] = new BMap.Marker(
+                point,
+                {
+                    icon: new BMap.Icon("http://api.map.baidu.com/lbsapi/createmap/images/icon.png",
+                    new BMap.Size(20,25),
+                    {
+                        imageOffset: new BMap.Size(markers[index].imageOffset.width, markers[index].imageOffset.height)
+                    }
+                    )
+                }
+            );
 
         var opts = {
           width: 200,
@@ -121,14 +121,14 @@ function initMap(){
         var infoWindow = new BMap.InfoWindow(markers[index].title + '<br />' + markers[index].date + '  ' + markers[index].time + '<br />' + markers[index].place, opts);
 
         time[index] = 0;
-        if (markers[index].date.indexOf('27') !== -1)
+        if (markers[index].date.indexOf('25') !== -1)
             time[index] |= 1;
-
-        if (markers[index].date.indexOf('28') !== -1)
+        if (markers[index].date.indexOf('26') !== -1)
             time[index] |= 2;
-
-        if (markers[index].date.indexOf('29') !== -1)
+        if (markers[index].date.indexOf('27') !== -1)
             time[index] |= 4;
+        if (markers[index].date.indexOf('28') !== -1)
+            time[index] |= 8;
 
         addClickHandler(marker[index], infoWindow);
         map.addOverlay(marker[index]);
@@ -204,14 +204,14 @@ function choose26() {
         for (var i=0;i<n;i++)
         {
             console.log(time[i] & 1);
-            if ((time[i] & 1) === 1)
+            if ((time[i] & 2) === 1)
                 marker[i].show();
         }
     }else {
         all[0].checked = false;
         for (var i=0;i<n;i++)
         {
-            if ((time[i] | 1) === 1)
+            if ((time[i] | 2) === 2)
                 marker[i].hide();
         }
     }
@@ -224,14 +224,14 @@ function choose27() {
         for (var i=0;i<n;i++)
         {
             console.log(time[i] & 1);
-            if ((time[i] & 1) === 1)
+            if ((time[i] & 4) === 1)
                 marker[i].show();
         }
     }else {
         all[0].checked = false;
         for (var i=0;i<n;i++)
         {
-            if ((time[i] | 1) === 1)
+            if ((time[i] | 4) === 4)
                 marker[i].hide();
         }
     }
@@ -243,14 +243,14 @@ function choose28() {
         all[0].checked = all[1].checked && all[2].checked && all[3].checked;
         for (var i=0;i<n;i++)
         {
-            if ((time[i] & 2) === 2)
+            if ((time[i] & 8) === 2)
                 marker[i].show();
         }
     }else {
         all[0].checked = false;
         for (var i=0;i<n;i++)
         {
-            if ((time[i] | 2) === 2)
+            if ((time[i] | 8) === 8)
                 marker[i].hide();
         }
     }

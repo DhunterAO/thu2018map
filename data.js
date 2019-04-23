@@ -695,91 +695,99 @@ var mapdata=[
         data:{
             markers:[
                 {
-                    title:"图书馆老馆开放参观阅览",
-                    date: "2019-04-28、29",
+                    title:"图书馆开放日",
+                    date: "2019-04-27,28",
+                    time: "全天",
+                    place: "图书馆总馆、文科图书馆",
+                    position:{lng:116.331899,lat:40.010412},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"老馆大库开放日",
+                    date: "2019-04-27,28",
                     time: "全天",
                     place: "图书馆老馆",
-                    position:{lng:116.331999,lat:40.010412},
+                    position:{lng:116.331877,lat:40.010391},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"图书馆西馆开放参观阅览",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "图书馆西馆",
-                    position:{lng:116.330553,lat:40.010614},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"图书馆北馆开放参观阅览",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "图书馆北馆",
+                    title:"金融图书馆开放日",
+                    date: "2019-04-28",
+                    time: "09:00-11:00,14:00-16:00",
+                    place: "金融图书馆",
                     position:{lng:116.329113,lat:40.012959},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"人文社科图书馆开放参观阅览",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "人文社科图书馆",
-                    position:{lng:116.334983,lat:40.009951},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"图书馆老馆大库开放参观阅览",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "图书馆老馆大库",
-                    position:{lng:116.331799,lat:40.010412},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"经管学院院史馆开放参观",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "经管学院",
-                    position:{lng:116.337825,lat:40.00508},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"x-lab创新创业场地开放参观",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "清华科技园科技大厦B座B101",
-                    position:{lng:116.337708,lat:39.999687},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"校友免费参观艺术博物馆",
-                    date: "2019-04-28、29",
-                    time: "全天",
-                    place: "艺术博物馆一至四层",
-                    position:{lng:116.342213,lat:40.00764},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"学生公寓开放参观",
-                    date: "2019-04-29",
-                    time: "全天",
-                    place: "各学生公寓",
-                    position:{lng:116.335718,lat:40.017044},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
                     title:"苏世民书院开放参观",
-                    date: "2019-04-29",
-                    time: "全天",
+                    date: "2019-04-28",
+                    time: "09:00-11:30,13:30-16:30",
                     place: "苏世民书院",
                     position:{lng:116.336242,lat:40.013334},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"“清华正芳华”——2019清华大学校园开放日",
-                    date: "2019-05-19",
+                    title:"善斋开放参观",
+                    date: "2019-04-27、28",
                     time: "全天",
-                    place: "大礼堂及周边",
-                    position:{lng:116.330971,lat:40.009453},
+                    place: "善斋",
+                    position:{lng:116.327746,lat:40.01183},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"艺术博物馆参观（校友免费）",
+                    date: "2019-04-27、28",
+                    time: "全天",
+                    place: "艺术博物馆",
+                    position:{lng:116.342213,lat:40.00764},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"老宿舍怀旧体验",
+                    date: "2019-04-27、28",
+                    time: "08：00-17：00",
+                    place: "1号楼133房间",
+                    position:{lng:116.331169,lat:40.013278},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"学生社区活动中心体验",
+                    date: "2019-04-27、28",
+                    time: "08：00-17：00",
+                    place: "31号楼东南角",
+                    position:{lng:116.334371,lat:40.014496},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"校园志愿讲解",
+                    date: "2019.04.27-05.01",
+                    time: "",
+                    place: "西门至二校门附近",
+                    position:{lng:116.330987,lat:40.006829},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"学生公寓开放参观",
+                    date: "2019-04-27，28",
+                    time: "",
+                    place: "各学生公寓楼",
+                    position:{lng:116.33607,lat:40.016983},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"校庆日升旗仪式",
+                    date: "2019-04-28",
+                    time: "07:00",
+                    place: "主楼前广场",
+                    position:{lng:116.339161,lat:40.0067},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"学生社团校庆嘉年华",
+                    date: "2019-04-28",
+                    time: "",
+                    place: "紫荆操场及校内各地",
+                    position:{lng:116.335681,lat:40.015896},
                     imageOffset: {width:-46,height:-21}
                 }
             ],
@@ -794,159 +802,566 @@ var mapdata=[
         data:{
             markers:[
                 {
-                    title:"大型交响组歌《水木情缘》专辑发布暨鉴赏会",
+                    title:"清华校友总会机械系分会成立大会",
                     date: "2019-04-28",
-                    time: "09:30",
-                    place: "学生文化活动中心多功能厅",
-                    position:{lng:116.328221,lat:40.010078},
+                    time: "09:00",
+                    place: "主楼接待厅",
+                    position:{lng:116.339146,lat:40.007423},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"学生艺术团曲艺队校庆露天演出",
-                    date: "2019-04-28",
-                    time: "14:00",
-                    place: "紫荆学生服务中心门前",
-                    position:{lng:116.334798,lat:40.015643},
+                    title:"清华校友总会能动系分会成立大会",
+                    date: "2019-04-27",
+                    time: "14:30",
+                    place: "科技大楼B518",
+                    position:{lng:116.33696,lat:40.002722},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"校友招待专场演出",
-                    date: "2019-04-28",
-                    time: "15:00",
-                    place: "新清华学堂",
-                    position:{lng:116.335895,lat:40.007479},
+                    title:"清华校友总会航院分会理事会、常务理事会",
+                    date: "2019-04-27",
+                    time: "",
+                    place: "综合科研1号楼北楼",
+                    position:{lng:116.342624,lat:40.011698},
                     imageOffset: {width:-46,height:-21}
                 },
 
                 {
-                    title:"歌剧电影《长征》、《奥赛罗》（展演）",
+                    title:"清华校友总会公管学院分会理事会第三届理事会第二次会议",
+                    date: "2019-04-27",
+                    time: "10:00",
+                    place: "公管学院620室",
+                    position:{lng:116.337975,lat:40.004456},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"清华校友总会马克思主义学院校友分会第二届常务理事会",
+                    date: "2019-04-27",
+                    time: "15:30-17:30",
+                    place: "善斋107室",
+                    position:{lng:116.327746,lat:40.01183},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"2019年清华电子系校友返校典礼",
+                    date: "2019-04-27",
+                    time: "09:00-11:00",
+                    place: "电子工程系馆11层多功能厅",
+                    position:{lng:116.342871,lat:40.011188},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"第九期明德导航计划启动仪式",
+                    date: "2019-04-27",
+                    time: "13:30",
+                    place: "公管学院321室",
+                    position:{lng:116.337975,lat:40.004456},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"春林有约",
+                    date: "2019-04-27",
+                    time: "13:00-15:00",
+                    place: "生命科学馆143会议室",
+                    position:{lng:116.326852,lat:40.010038},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"“职面人生”马院学长沙龙——公共部门及企业专场",
+                    date: "2019-04-27",
+                    time: "09:30-11:30",
+                    place: "善斋",
+                    position:{lng:116.327746,lat:40.01183},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"清华大学马克思主义学院“求真”校友讲坛 ",
+                    date: "2019-04-27",
+                    time: "14:00",
+                    place: "善斋",
+                    position:{lng:116.327746,lat:40.01183},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"清华大学马克思主义学院返校校友座谈会",
                     date: "2019-04-28",
-                    time: "13:00",
-                    place: "大礼堂",
-                    position:{lng:116.330971,lat:40.009453},
+                    time: "09:00-11:30",
+                    place: "善斋",
+                    position:{lng:116.327746,lat:40.01183},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"电影《无问西东》（在校师生、校友免费观看）",
-                    date: "2019-04-28 17:00",
-                    time: "2019-04-29 全天",
-                    place: "大礼堂",
-                    position:{lng:116.330971,lat:40.009453},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"校友民乐音乐会",
+                    title:"社科学院校友交流会",
                     date: "2019-04-28",
-                    time: "19:30",
-                    place: "学生文化活动中心多功能厅",
-                    position:{lng:116.328221,lat:40.010078},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
-                    title:"校友师生民乐演出",
-                    date: "2019-04-29",
                     time: "09:00",
-                    place: "工字厅前",
-                    position:{lng:116.3297,lat:40.008034},
+                    place: "学生职业发展指导中心新东方厅",
+                    position:{lng:116.334854,lat:40.011254},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"草坪音乐会",
-                    date: "2019-04-29",
+                    title:"清华校友总会水利系分会第一届理事会第二次会议",
+                    date: "2019-04-28",
+                    time: "上午",
+                    place: "新水利馆406",
+                    position:{lng:116.332152,lat:40.009439},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"实践育人研讨会",
+                    date: "2019-04-28",
+                    time: "",
+                    place: "综合科研1号楼北楼M层报告厅",
+                    position:{lng:116.342624,lat:40.011698},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"明德·公管院友读书会",
+                    date: "2019-04-27",
+                    time: "13:30",
+                    place: "公管学院302室",
+                    position:{lng:116.337975,lat:40.004456},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届水利系毕业60年校友座谈会",
+                    date: "2019-04-27",
                     time: "09:00",
-                    place: "北院草坪",
-                    position:{lng:116.332342,lat:40.011162},
+                    place: "老年活动中心二层多功能厅",
+                    position:{lng:116.330125,lat:40.003201},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"学生社团校庆嘉年华",
-                    date: "2019-04-29",
+                    title:"1959届机械系压9毕业60年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:30",
+                    place: "科技大楼一层B148室",
+                    position:{lng:116.33696,lat:40.002722},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届土木系房9毕业60年校友座谈会",
+                    date: "2019-04-28",
+                    time: "14:30",
+                    place: "土木馆201室",
+                    position:{lng:116.336627,lat:40.009906},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959级电机系入学60年校友座谈会",
+                    date: "2019-04-28",
+                    time: "10:15",
+                    place: "西主楼3-217室",
+                    position:{lng:116.338009,lat:40.00724},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届建筑系建9毕业60年校友座谈会",
+                    date: "2019-04-28",
                     time: "10:00",
-                    place: "紫荆操场、新清华学堂外广场、大草坪南侧广场、旧水利馆前广场",
-                    position:{lng:116.334798,lat:40.015643},
+                    place: "经管西楼110室",
+                    position:{lng:116.337825,lat:40.00508},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"学生艺术团军乐队校庆大游园",
-                    date: "2019-04-29",
+                    title:"1959届无线电系无9毕业60年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:30",
+                    place: "老年活动中心101室",
+                    position:{lng:116.330125,lat:40.003201},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届工物系物9毕业60年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:00",
+                    place: "化工电大楼（工物系）220室",
+                    position:{lng:116.342587,lat:40.008807},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届动力系热9毕业60年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:30",
+                    place: "机械工程馆第三会议室",
+                    position:{lng:116.331932,lat:40.007085},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届电机系电9毕业60年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:30",
+                    place: "近春园大会议室",
+                    position:{lng:116.3244,lat:40.007711},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届电机系企9毕业60年校友座谈会",
+                    date: "2019-04-26",
                     time: "10:00",
-                    place: "艺术博物馆-新清华学堂-二校门-大礼堂沿线",
-                    position:{lng:116.342213,lat:40.00764},
+                    place: "近春园第三会议室",
+                    position:{lng:116.3244,lat:40.007711},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"校友师生集体舞联欢",
-                    date: "2019-04-29",
+                    title:"1959届自动控制系计9及自91毕业60年校友座谈会",
+                    date: "2019-04-28",
+                    time: "10:20",
+                    place: "东主楼10区110室",
+                    position:{lng:116.340249,lat:40.007528},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届土木系给91/92毕业60年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:00",
+                    place: "环境节能楼205会议室",
+                    position:{lng:116.341412,lat:40.004172},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届机械系焊9毕业60年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "科技大楼一层",
+                    position:{lng:116.33696,lat:40.002722},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届机械系制9毕业60年校友座谈会（三个小班各自座谈）",
+                    date: "2019-04-28",
+                    time: "09:00",
+                    place: "精仪系馆",
+                    position:{lng:116.337403,lat:40.003504},
+                    imageOffset: {width:-46,height:-21}
+                },
+
+                {
+                    title:"1959届机械系铸9毕业60年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "近春园二楼会议室",
+                    position:{lng:116.3244,lat:40.007711},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1959届机械系焊9毕业60年校友座谈会",
+                    date: "2019-04-24",
+                    time: "全天",
+                    place: "旧水利馆一层大厅",
+                    position:{lng:116.33229,lat:40.007522},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届精仪系光9/精9毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "精仪系大会议室",
+                    position:{lng:116.337403,lat:40.003504},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届土建系0391班毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "环境节能楼321会议室",
+                    position:{lng:116.341412,lat:40.004172},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届土建系建9毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "建筑馆二楼多功能厅",
+                    position:{lng:116.339958,lat:40.005237},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届土建系材9毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "土木馆106室",
+                    position:{lng:116.336627,lat:40.009906},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届土建系房9毕业50年校友座谈会",
+                    date: "2019-04-28",
                     time: "10:00",
-                    place: "大礼堂前",
-                    position:{lng:116.330871,lat:40.009453},
+                    place: "土木馆201室",
+                    position:{lng:116.336627,lat:40.009906},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"学生艺术团国标队舞蹈演出",
-                    date: "2019-04-29",
+                    title:"1969届冶金系金9毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "14:00",
+                    place: "科技大楼A402",
+                    position:{lng:116.33696,lat:40.002722},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工化系毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:00",
+                    place: "工物馆422室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工化系化901毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "工物馆324A室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+
+                {
+                    title:"1969届工化系化902毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "工物馆336室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工化系化903毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "14:00",
+                    place: "工物馆336室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工化系化901毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "14:00",
+                    place: "工物馆324A室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工化系化902毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "工物馆336室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工化系化903毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "14:00",
+                    place: "工物馆336室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工化系化904毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "14:00",
+                    place: "工物馆324A室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工化系化905毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "14:00",
+                    place: "工物馆324B室",
+                    position:{lng:116.34013,lat:40.008748},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届工物系毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:00",
+                    place: "化工电大楼（工物系）105教室",
+                    position:{lng:116.342587,lat:40.008807},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届汽车系毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:00",
+                    place: "科技大楼A-247-2",
+                    position:{lng:116.33696,lat:40.002722},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届无线电系毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "电子工程系馆11层多功能厅",
+                    position:{lng:116.342871,lat:40.011188},
+                    imageOffset: {width:-46,height:-21}
+                },
+
+                {
+                    title:"1969届电机系企91毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "14:00",
+                    place: "西主楼二区203室",
+                    position:{lng:116.338009,lat:40.00724},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届自控系毕业50年校友座谈会",
+                    date: "2019-04-27",
                     time: "10:00",
-                    place: "新清华学堂前",
-                    position:{lng:116.335895,lat:40.007479},
+                    place: "第一教室楼104教室",
+                    position:{lng:116.330594,lat:40.007254},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"校友剧艺社话剧《日出》",
-                    date: "2019-04-29",
-                    time: "14:30/19:00",
-                    place: "音乐厅",
-                    position:{lng:116.335125,lat:40.0076},
+                    title:"1969届基础课外语教研组英语师资班毕业50年座谈会",
+                    date: "2019-04-27",
+                    time: "09:00",
+                    place: "文南楼204室",
+                    position:{lng:116.334238,lat:40.00769},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"爱上舞蹈奇艺人生——校友舞蹈队专场演出《向美而行》",
-                    date: "2019-04-29",
-                    time: "19:30",
-                    place: "新清华学堂",
-                    position:{lng:116.335495,lat:40.007479},
+                    title:"1969届数力系毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "综合科研1号楼北楼412会议室",
+                    position:{lng:116.342624,lat:40.011698},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"“地球村”国际文化节",
-                    date: "2019-05-12",
+                    title:"1969届水利系毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "新水利馆405教室",
+                    position:{lng:116.332152,lat:40.009439},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届精仪系制91/92毕业50年校友座谈会",
+                    date: "2019-04-28",
                     time: "10:00",
-                    place: "紫荆操场",
-                    position:{lng:116.335681,lat:40.015896},
+                    place: "科技大楼A505、507",
+                    position:{lng:116.33696,lat:40.002722},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"中外达人秀",
-                    date: "2019-05-19",
+                    title:"1969届电机系发91毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:30",
+                    place: "西主楼3-314室",
+                    position:{lng:116.338009,lat:40.00724},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届动力系热92毕业50年校友座谈会",
+                    date: "2019-04-27、28",
+                    time: "18:00",
+                    place: "科技大楼A559会议室",
+                    position:{lng:116.33696,lat:40.002722},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届冶金系毕业50年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:00",
+                    place: "科技大楼A404",
+                    position:{lng:116.33696,lat:40.002722},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1969届动农系毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "10:30",
+                    place: "机械工程馆第三会议室",
+                    position:{lng:116.331932,lat:40.007085},
+                    imageOffset: {width:-46,height:-21}
+                },
+
+                {
+                    title:"1975级水利系水工毕业40年校友座谈会",
+                    date: "2019-04-27",
+                    time: "上午",
+                    place: "新水利馆406室",
+                    position:{lng:116.332152,lat:40.009439},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1975级水利系水动毕业40年校友座谈会",
+                    date: "2019-04-28",
+                    time: "下午",
+                    place: "新水利馆327室",
+                    position:{lng:116.332152,lat:40.009439},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1979级水利系入学40年校友座谈会",
+                    date: "2019-04-28",
+                    time: "上午",
+                    place: "新水利馆301室",
+                    position:{lng:116.332152,lat:40.009439},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1984级水利系毕业30年校友座谈会",
+                    date: "2019-04-27",
+                    time: "上午",
+                    place: "新水利馆",
+                    position:{lng:116.332152,lat:40.009439},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1984级计算机系毕业30年纪念活动",
+                    date: "2019-04-27",
+                    time: "16:00",
+                    place: "清华科技园阳光厅",
+                    position:{lng:116.337278,lat:40.000266},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1995级化学系毕业20年校友座谈会",
+                    date: "2019-04-27",
                     time: "10:00",
-                    place: "紫荆操场",
-                    position:{lng:116.335681,lat:40.015896},
+                    place: "化学新馆406",
+                    position:{lng:116.326035,lat:40.011851},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1968/1969届农用机电专业毕业50年校友座谈会",
+                    date: "2019-04-28",
+                    time: "09:00",
+                    place: "科技大楼A247",
+                    position:{lng:116.33696,lat:40.002722},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"公管学院1999级校友入学20周年、2009级校友入学10周年校友座谈会",
+                    date: "2019-04-28",
+                    time: "",
+                    place: "公管学院",
+                    position:{lng:116.337975,lat:40.004456},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"2005级软件学院毕业10年校友座谈会",
+                    date: "2019-04-27",
+                    time: "09:30",
+                    place: "FIT楼多功能厅",
+                    position:{lng:116.338753,lat:40.002437},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"2005级计算机系毕业10年校友座谈会",
+                    date: "2019-04-27",
+                    time: "10:00",
+                    place: "东主楼10区103",
+                    position:{lng:116.340249,lat:40.007528},
                     imageOffset: {width:-46,height:-21}
                 }
             ],
             labels:[],
             plOpts:[],
-            plPath:[
-                {
-                    path: [
-                        new BMap.Point(116.342301,40.007105),
-                        new BMap.Point(116.340972,40.007041),
-                        new BMap.Point(116.340981,40.00687),
-                        new BMap.Point(116.3409,40.006808),
-                        new BMap.Point(116.336772,40.006708),
-                        new BMap.Point(116.334702,40.006684),
-                        new BMap.Point(116.333179,40.006704),
-                        new BMap.Point(116.333107,40.006715),
-                        new BMap.Point(116.332456,40.006715),
-                        new BMap.Point(116.331055,40.006656),
-                        new BMap.Point(116.330984,40.007862),
-                        new BMap.Point(116.330796,40.007873),
-                        new BMap.Point(116.330648,40.009078),
-                        new BMap.Point(116.330989,40.009113)
-                    ],
-                    opt: {
-                        strokeColor:"#f00",strokeWeight:"6",strokeOpacity:"0.5"
-                    }
-                }],
+            plPath:[],
             center:[116.335363,40.012643,16]
         }
     }
