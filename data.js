@@ -8,11 +8,11 @@ var mapdata=[
                     date: "2019-04-25",
                     time: "11:00",
                     place: "工字厅东厅",
-                    position:{lng:116.3297,lat:40.008034},
+                    position:{lng:116.329691,lat:40.008687},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"2019-2019年度清华大学校友励学金大会",
+                    title:"2018-2019年度清华大学校友励学金大会",
                     date: "2019-04-25",
                     time: "13:30",
                     place: "主楼后厅",
@@ -40,7 +40,7 @@ var mapdata=[
                     date: "2019-04-27",
                     time: "15:00",
                     place: "经管楼报告厅",
-                    position:{lng:116.333724,lat:40.007782},
+                    position:{lng:116.338507,lat:40.005491},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -98,7 +98,7 @@ var mapdata=[
                     date: "2019-04-28",
                     time: "全天",
                     place: "东大操场、苏世民书院、艺术博物馆等",
-                    position:{lng:116.336242,lat:40.013334},
+                    position:{lng:116.338824,lat:40.01123},
                     imageOffset: {width:-46,height:-21}
                 }
             ],
@@ -338,11 +338,27 @@ var mapdata=[
         data:{
             markers:[
                 {
+                    title:"迈向一流——清华大学庆祝改革开放四十周年展览",
+                    date: "已在展，至4月底",
+                    time: "",
+                    place: "校史馆",
+                    position:{lng:116.33597,lat:40.007712},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"第四届清华史料与名人档案捐赠精品展",
+                    date: "4月15日-6月底",
+                    time: "",
+                    place: "校史馆一楼序厅",
+                    position:{lng:116.33597,lat:40.007712},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
                     title:"校友摄影展",
                     date: "2019.04.23-05.03",
                     time: "",
                     place: "图书馆北馆一层展厅",
-                    position:{lng:116.330749,lat:40.010798},
+                    position:{lng:116.330721,lat:40.011369},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -350,7 +366,7 @@ var mapdata=[
                     date: "2019.04.25-05.09",
                     time: "",
                     place: "环境楼一楼大厅",
-                    position:{lng:116.333781,lat:40.01156},
+                    position:{lng:116.341413,lat:40.003785},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -366,7 +382,7 @@ var mapdata=[
                     date: "2019.04.26-04.28",
                     time: "",
                     place: "图书馆西馆303会议室",
-                    position:{lng:116.331899,lat:40.010412},
+                    position:{lng:116.330353,lat:40.01071},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -644,19 +660,11 @@ var mapdata=[
                     imageOffset: {width:-46,height:-21}
                 },
                 {
-                    title:"相聚清华园·再续围棋缘",
-                    date: "2019-04-27、28",
-                    time: "",
-                    place: "待定",
-                    position:{lng:116.329113,lat:40.012959},
-                    imageOffset: {width:-46,height:-21}
-                },
-                {
                     title:"1988级与1991级足球联谊赛",
                     date: "2019-04-28",
                     time: "09:00-11:00",
                     place: "西大操场",
-                    position:{lng:116.331999,lat:40.010412},
+                    position:{lng:116.328577,lat:40.010896},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -664,7 +672,7 @@ var mapdata=[
                     date: "2019-04-28",
                     time: "16:00-18:00",
                     place: "西大操场",
-                    position:{lng:116.331999,lat:40.010412},
+                    position:{lng:116.328577,lat:40.010896},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -672,13 +680,13 @@ var mapdata=[
                     date: "2019-04-28",
                     time: "16:00-18:00",
                     place: "西大操场",
-                    position:{lng:116.331999,lat:40.010412},
+                    position:{lng:116.328577,lat:40.010896},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
                     title:"“马约翰杯”学生田径运动会",
                     date: "2019-04-28",
-                    time: "08:16:00",
+                    time: "08:00开幕式，16:00闭幕式",
                     place: "东大操场",
                     position:{lng:116.339491,lat:40.010624},
                     imageOffset: {width:-46,height:-21}
@@ -697,7 +705,7 @@ var mapdata=[
                 {
                     title:"图书馆开放日",
                     date: "2019-04-27,28",
-                    time: "全天",
+                    time: "",
                     place: "图书馆总馆、文科图书馆",
                     position:{lng:116.331899,lat:40.010412},
                     imageOffset: {width:-46,height:-21}
@@ -705,7 +713,7 @@ var mapdata=[
                 {
                     title:"老馆大库开放日",
                     date: "2019-04-27,28",
-                    time: "全天",
+                    time: "",
                     place: "图书馆老馆",
                     position:{lng:116.331877,lat:40.010391},
                     imageOffset: {width:-46,height:-21}
@@ -715,7 +723,7 @@ var mapdata=[
                     date: "2019-04-28",
                     time: "09:00-11:00,14:00-16:00",
                     place: "金融图书馆",
-                    position:{lng:116.329113,lat:40.012959},
+                    position:{lng:116.342122,lat:39.999281},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
@@ -729,7 +737,7 @@ var mapdata=[
                 {
                     title:"善斋开放参观",
                     date: "2019-04-27、28",
-                    time: "全天",
+                    time: "",
                     place: "善斋",
                     position:{lng:116.327746,lat:40.01183},
                     imageOffset: {width:-46,height:-21}
@@ -737,7 +745,7 @@ var mapdata=[
                 {
                     title:"艺术博物馆参观（校友免费）",
                     date: "2019-04-27、28",
-                    time: "全天",
+                    time: "",
                     place: "艺术博物馆",
                     position:{lng:116.342213,lat:40.00764},
                     imageOffset: {width:-46,height:-21}
