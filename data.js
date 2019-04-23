@@ -525,7 +525,7 @@ var mapdata=[
                     date: "2019-04-28",
                     time: "10:00",
                     place: "清华主干道、新清华学堂广场前路口",
-                    position:{lng:116.335895,lat:40.007479},
+                    position:{lng:116.341873,lat:40.006994},
                     imageOffset: {width:-46,height:-21}
                 },
                 {
