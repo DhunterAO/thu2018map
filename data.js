@@ -505,7 +505,7 @@ var mapdata=[
                     date: "2019-04-27",
                     time: "09:00",
                     place: "工字厅前",
-                    position:{lng:116.329601,lat:40.008523},
+                    position:{lng:116.329696,lat:40.00802},
                     imageOffset: {width:-46,height:-21}
                 },
 
@@ -1280,8 +1280,16 @@ var mapdata=[
                 {
                     title:"1969届动农系毕业50年校友座谈会",
                     date: "2019-04-28",
-                    time: "10:30",
+                    time: "09:30",
                     place: "机械工程馆第三会议室",
+                    position:{lng:116.331932,lat:40.007085},
+                    imageOffset: {width:-46,height:-21}
+                },
+                {
+                    title:"1979届能动系锅79毕业40年校友座谈会",
+                    date: "2019-04-28",
+                    time: "10:30",
+                    place: "机械工程馆第一会议室",
                     position:{lng:116.331932,lat:40.007085},
                     imageOffset: {width:-46,height:-21}
                 },
